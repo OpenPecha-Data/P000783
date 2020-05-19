@@ -1,28 +1,27 @@
 # Eight Verses of Training the Mind
 
-## Edit
+## Download and Edit Online
 
-- [![](https://img.icons8.com/cute-clipart/24/000000/edit.png) Publication](http://prose.io/#OpenPecha/P000783/)
-- [![](https://img.icons8.com/cute-clipart/24/000000/edit.png) Diplomatic](http://prose.io/#OpenPecha/P000783/tree/diplomatic)  
-
-## Downloads
-
-- **Publication View**
-    - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png) Markdown (.md)](link)
-    - [![](https://img.icons8.com/cute-clipart/24/000000/epub.png) Epub (.epub)](link)
+- **Publication View**  [ ![](https://img.icons8.com/color/18/000000/edit.png) ![](https://img.icons8.com/color/18/000000/layers.png) ](http://prose.io/#OpenPecha/P000783/) `base + 1-toc + 2-pagination_bo + 3-correction`
+    - [![](https://img.icons8.com/color/24/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000783/releases/download/v02/Eight_Verses_of_Training_the_Mind-v001.txt)
+    - [![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
+    - [![](https://img.icons8.com/color/24/000000/epub.png) Epub (.epub)](link)
     - [![](https://img.icons8.com/color/24/000000/microsoft-word-2019.png) Word (.docx)](link)
-    - layers:
-        - toc
-        - page # page-index in boyig
-        - correction
+    
+- **Diplomatic View** [ ![](https://img.icons8.com/color/18/000000/edit.png) ![](https://img.icons8.com/color/18/000000/layers.png) ](http://prose.io/#OpenPecha/P000783/tree/diplomatic) `base + 2-pagination_bo + 4-uncertain`
+    - [![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
 
-- **Diplomatic View**
-    - [![](https://img.icons8.com/cute-clipart/24/000000/txt.png) Plain text (.txt)](link)
-    - [![](https://img.icons8.com/cute-clipart/24/000000/markdown.png) Markdown (.md)](link)
 
-    - layers:
-        - page # page-index in boyig
-        - uncertain
+_Note: to edit![](https://img.icons8.com/color/16/000000/edit.png) large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
+
+## Edit Offline
+
+- [Download](link) and install the OpenPecha Toolkit
+- Open CMD or Terminal
+- Create a view by typing: `<cmd command>`
+- Save and upload by typing: `<cmd command>`
+
+_Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
 
 
 ## .opf
@@ -35,5 +34,5 @@
   - uncertain
 
 ## Source 
-- Link:
-- https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind
+- [![](https://img.icons8.com/color/24/000000/download.png) File](https://github.com/OpenPecha/P000783/releases/download/v01/Eight_Verses_of_Training_the_Mind_Lotsawa_House.html) 
+- [![](https://img.icons8.com/color/24/000000/link.png) Link](https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind)
