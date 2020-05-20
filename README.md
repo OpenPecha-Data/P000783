@@ -3,9 +3,11 @@
 ## Publication View
 
 ![](https://img.icons8.com/color/20/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
-<h3><details><summary> Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png"></summary><blockquote>
+
+### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
+<details><summary> open editor </summary><blockquote>
 <iframe src="https://prose.io/#OpenPecha/P000783/edit/publication/v001.txt" width="100%" height="600"></iframe>
-</blockquote></details></h3>
+</blockquote></details>
 
 ### Downloads <img src="https://img.icons8.com/cotton/20/000000/download-from-cloud.png">
 - [![](https://img.icons8.com/color/20/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000783/releases/download/v02/Eight_Verses_of_Training_the_Mind-v001.txt)
