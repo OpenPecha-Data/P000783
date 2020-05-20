@@ -43,7 +43,7 @@ _Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](l
 - uncertain
 
 ## Parent Work
-
+<iframe src="https://raw.githubusercontent.com/OpenPecha/works/master/W00004123.yml" width="100%" height="600"></iframe>
 
 ## Source 
 - [![](https://img.icons8.com/color/24/000000/download.png) File](https://github.com/OpenPecha/P000783/releases/download/v01/Eight_Verses_of_Training_the_Mind_Lotsawa_House.html) 
