@@ -6,7 +6,7 @@
 
 
 ### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
-<details><summary> open editor </summary><blockquote>
+<details><summary> Open editor </summary><blockquote>
 <iframe src="https://prose.io/#OpenPecha/P000783/edit/publication/v001.txt" width="100%" height="600"></iframe>
 </blockquote></details>
 
