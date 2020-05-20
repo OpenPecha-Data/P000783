@@ -1,8 +1,8 @@
 # Eight Verses of Training the Mind
 
 ## Publication View
-![](https://img.icons8.com/color/20/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
 
+![](https://img.icons8.com/color/20/000000/layers.png) Layers: base + **t**oc + **p**agination_bo + **c**orrection
 
 ### Downloads <img src="https://img.icons8.com/cotton/20/000000/download-from-cloud.png">
 - [![](https://img.icons8.com/color/20/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000783/releases/download/v02/Eight_Verses_of_Training_the_Mind-v001.txt)
@@ -35,14 +35,15 @@ _Note: to edit![](https://img.icons8.com/color/16/000000/edit.png) large files u
 _Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](link)_
 
 
-## .opf
-- Link: 
-- Layers:
-  - index
-  - pagination
-  - correction
-  - peydurma-note
-  - uncertain
+## All available layers
+- index
+- pagination
+- correction
+- peydurma-note
+- uncertain
+
+## Parent Work
+
 
 ## Source 
 - [![](https://img.icons8.com/color/24/000000/download.png) File](https://github.com/OpenPecha/P000783/releases/download/v01/Eight_Verses_of_Training_the_Mind_Lotsawa_House.html) 
