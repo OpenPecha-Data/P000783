@@ -2,11 +2,12 @@
 
 ## Publication View
 
-<h3> Downloads <img src="https://img.icons8.com/color/24/000000/download-from-cloud.png"></h3>
-- [![](https://img.icons8.com/color/24/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000783/releases/download/v02/Eight_Verses_of_Training_the_Mind-v001.txt)
-- [![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
-- [![](https://img.icons8.com/color/24/000000/epub.png) Epub (.epub)](link)
-- [![](https://img.icons8.com/color/24/000000/microsoft-word-2019.png) Word (.docx)](link)
+<h3> Downloads <img src="https://img.icons8.com/cotton/24/000000/download-from-cloud.png"></h3>
+kjnk
+[![](https://img.icons8.com/color/24/000000/txt.png) Plain text (.txt)](https://github.com/OpenPecha/P000783/releases/download/v02/Eight_Verses_of_Training_the_Mind-v001.txt)
+[![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
+[![](https://img.icons8.com/color/24/000000/epub.png) Epub (.epub)](link)
+[![](https://img.icons8.com/color/24/000000/microsoft-word-2019.png) Word (.docx)](link)
 
 ![](https://img.icons8.com/color/24/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
 
