@@ -1,10 +1,10 @@
 # Eight Verses of Training the Mind
 
-## Download and Edit Online
+## Publication View
 
-- **Publication View**  [ ![](https://img.icons8.com/color/18/000000/edit.png) ![](https://img.icons8.com/color/18/000000/layers.png) ](http://prose.io/#OpenPecha/P000783/) `base + 1-toc + 2-pagination_bo + 3-correction`
+![](https://img.icons8.com/color/18/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
 
-<details><summary> Edit!</summary><blockquote> 
+<details><summary> Edit online <img src="https://img.icons8.com/color/18/000000/edit.png"></summary><blockquote> 
 
 <iframe src="https://prose.io/#OpenPecha/P000783/" width="100%" height="600"></iframe>
 
