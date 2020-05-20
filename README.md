@@ -36,11 +36,11 @@ _Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](l
 
 
 ## All available layers
-- index
-- pagination
-- correction
-- peydurma-note
-- uncertain
+- index: <description>
+- pagination: <description>
+- correction: <description>
+- peydurma-note: <description>
+- uncertain: <description>
 
 ## Parent Work
 <iframe src="https://raw.githubusercontent.com/OpenPecha/works/master/W00004123.yml" width="100%" height="600"></iframe>
