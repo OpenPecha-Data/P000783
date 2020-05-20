@@ -8,6 +8,7 @@
 ### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
 <details><summary> Open editor </summary><blockquote>
 <iframe src="https://prose.io/#OpenPecha/P000783/edit/publication/v001.txt" width="100%" height="600"></iframe>
+_Note: to edit![](https://img.icons8.com/color/16/000000/edit.png) large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
 </blockquote></details>
 
 ### Downloads <img src="https://img.icons8.com/cotton/20/000000/download-from-cloud.png">
@@ -26,7 +27,6 @@
 
 ### Edit online
 
-_Note: to edit![](https://img.icons8.com/color/16/000000/edit.png) large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
 
 ## Edit Offline
 
