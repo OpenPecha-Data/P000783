@@ -21,12 +21,18 @@ _Note: to export custom files, write the format and annotations you need in the 
 
 ## Diplomatic View
 
-### Downloads
+📄 `base`  🏷 `2-pagination_bo + 4-uncertain`
 
-- **Diplomatic View** [ ![](https://img.icons8.com/color/18/000000/edit.png) ![](https://img.icons8.com/color/18/000000/layers.png) ](http://prose.io/#OpenPecha/P000783/tree/diplomatic) `base + 2-pagination_bo + 4-uncertain`
-    - [![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
 
-### Edit online
+### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
+<details><summary> Open editor </summary><blockquote>
+<iframe src="http://prose.io/#OpenPecha/P000783/edit/diplomatic/v001.txt" width="100%" height="600"></iframe>
+</blockquote></details>
+
+_Note: to export custom files, write the format and annotations you need in the commit message. For example `export epub t+c` or `epub toc+correction`. To edit large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
+
+### Downloads <img src="https://img.icons8.com/cotton/20/000000/download-from-cloud.png">
+ - [![](https://img.icons8.com/color/24/000000/markdown.png) Markdown (.md)](link)
 
 
 ## Edit Offline
@@ -47,7 +53,7 @@ _Detailed [tutorial ![](https://img.icons8.com/color/16/000000/classroom.png)](l
 - uncertain: <description>
 
 ## Parent Work
-<iframe src="https://raw.githubusercontent.com/OpenPecha/works/master/W00004123.yml" width="100%" height="600"></iframe>
+
 
 ## Source 
 - [![](https://img.icons8.com/color/24/000000/download.png) File](https://github.com/OpenPecha/P000783/releases/download/v01/Eight_Verses_of_Training_the_Mind_Lotsawa_House.html) 
