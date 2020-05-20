@@ -2,7 +2,8 @@
 
 ## Publication View
 
-![](https://img.icons8.com/color/20/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
+![](https://img.icons8.com/color/20/000000/layers.png) `🗏 base + 🏷 (t)oc + (p)agination_bo + (c)orrection`
+
 
 ### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
 <details><summary> open editor </summary><blockquote>
