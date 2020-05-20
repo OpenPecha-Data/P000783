@@ -2,7 +2,7 @@
 
 ## Publication View
 
-![](https://img.icons8.com/color/20/000000/layers.png) base + (t)oc + (p)agination_bo + (c)orrection
+![](https://img.icons8.com/color/20/000000/layers.png) `base + (t)oc + (p)agination_bo + (c)orrection`
 <h3><details><summary> Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png"></summary><blockquote>
 <iframe src="https://prose.io/#OpenPecha/P000783/edit/publication/v001.txt" width="100%" height="600"></iframe>
 </blockquote></details></h3>
