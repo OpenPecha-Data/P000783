@@ -26,7 +26,7 @@ _Note: to export custom files, write the format and annotations you need in the 
 
 ### Edit online <img src="https://img.icons8.com/color/20/000000/edit-property.png">
 <details><summary> Open editor </summary><blockquote>
-<iframe src="http://prose.io/#OpenPecha/P000783/edit/diplomatic/v001.txt" width="100%" height="600"></iframe>
+<iframe src="https://prose.io/#OpenPecha/P000783/edit/diplomatic/v001.txt" width="100%" height="600"></iframe>
 </blockquote></details>
 
 _Note: to export custom files, write the format and annotations you need in the commit message. For example `export epub t+c` or `epub toc+correction`. To edit large files use [FireFox ![](https://img.icons8.com/color/16/000000/firefox.png)](https://www.mozilla.org/)_
