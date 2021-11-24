@@ -1,9 +1,11 @@
-id: op:P000783
+id: P000783
 initial_creation_type: input
+created_at: 19/05/2020
+last_modified_at: 24/11/2021
 source_metadata:
-  id:
-  source_src:     # resource in initial release
-  source_bdr:     # BDRC Resource ID
+  id: null
+  source_src: null
+  source_bdr: null
   source_url: https://www.lotsawahouse.org/tibetan-masters/geshe-langri-thangpa/eight-verses-training-mind
   title: Eight Verses of Training the Mind
   author: Geshe Langri Thangpa
